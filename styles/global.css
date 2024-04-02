@@ -8,14 +8,20 @@
 
 /* Section Header Content */
 .header-container {
-  background-color: #ffdb58;
+  background-color: #efca44;
   text-align: center;
   padding: 6rem 1rem;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.154), rgba(0, 0, 0, 0.089)), url("../assets/pexels-jan-van-der-wolf-19516591.jpg");
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 /* Option header */
 .option-container {
   text-align: center;
-  background-color: #EEEEEE;
+  background-color: #eae4b8;
   padding: 3rem 1rem;
 }
